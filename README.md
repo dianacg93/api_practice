@@ -1,1 +1,6 @@
-# api_practice
+# Animal Fun Facts
+
+By:
+
+- Clariza Mayo
+- Diana Gaona`
